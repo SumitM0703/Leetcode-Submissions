@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Counting
 |  |
 | ------- |
@@ -57,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## Sliding Window
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
