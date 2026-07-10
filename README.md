@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0039-combination-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0643-maximum-average-subarray-i) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0015-3sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0011-container-with-most-water) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sliding Window
 |  |
