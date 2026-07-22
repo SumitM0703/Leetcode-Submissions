@@ -92,4 +92,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/1291-sequential-digits) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
