@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1695-maximum-erasure-value](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/1695-maximum-erasure-value) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/1331-rank-transform-of-an-array) |
+| [1695-maximum-erasure-value](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/1695-maximum-erasure-value) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1695-maximum-erasure-value](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/1695-maximum-erasure-value) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Backtracking
 |  |
