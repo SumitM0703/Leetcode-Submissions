@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0020-valid-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0155-min-stack) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Design
@@ -129,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0877-stone-game) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
