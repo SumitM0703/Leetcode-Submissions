@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0039-combination-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0643-maximum-average-subarray-i) |
+| [0739-daily-temperatures](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0877-stone-game](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0904-fruit-into-baskets) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Design
 |  |
@@ -135,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
