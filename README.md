@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1695-maximum-erasure-value](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/1695-maximum-erasure-value) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Counting
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1695-maximum-erasure-value](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/1695-maximum-erasure-value) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Backtracking
 |  |
 | ------- |
