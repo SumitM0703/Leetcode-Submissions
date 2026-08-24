@@ -1,15 +1,22 @@
 class Solution {
     public int findDuplicate(int[] nums) {
-        int n = nums.length;
-        int duplicate = nums[0];
-        HashMap<Integer,Integer>map = new HashMap<>();
-        for(int i = 0 ; i<n ; i++){
-            map.put(nums[i],map.getOrDefault(nums[i],0)+1);
-            if(map.get(nums[i])==2){
-                  duplicate = nums[i];
+        int slow = 0;
+        int fast =0;
+        while(true){
+            slow = nums[slow];
+            fast = nums[fast];
+            fast = nums[fast];
+            if(slow==fast){
+                slow =0;
+                while(slow!=fast){
+                    slow = nums[slow];
+                    fast = nums[fast];
+                }
+                return slow;
             }
+
         }
-        return duplicate;
+        
         
     }
 }
