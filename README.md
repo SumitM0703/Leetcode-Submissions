@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0904-fruit-into-baskets](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/1331-rank-transform-of-an-array) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0015-3sum) |
 | [0141-linked-list-cycle](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -156,8 +158,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0142-linked-list-cycle-ii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
