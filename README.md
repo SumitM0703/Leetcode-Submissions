@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0202-happy-number) |
 | [0904-fruit-into-baskets](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/1331-rank-transform-of-an-array) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0015-3sum) |
 | [0141-linked-list-cycle](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0977-squares-of-a-sorted-array) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0202-happy-number) |
 | [0877-stone-game](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
