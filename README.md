@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0977-squares-of-a-sorted-array) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1288-remove-covered-intervals](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/1331-rank-transform-of-an-array) |
 | [1695-maximum-erasure-value](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/1695-maximum-erasure-value) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0152-maximum-product-subarray) |
 | [0877-stone-game](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0877-stone-game) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Game Theory
 |  |
 | ------- |
