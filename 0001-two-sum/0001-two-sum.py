@@ -4,7 +4,6 @@ class Solution:
         for i in range(len(nums)):
             number = nums[i]
             complement = target-number
-
             if complement in seen:
                 return [seen[complement],i]
             else:
