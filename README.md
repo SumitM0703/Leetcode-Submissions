@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0125-valid-palindrome) |
 | [0796-rotate-string](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/1189-maximum-number-of-balloons) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0015-3sum) |
+| [0125-valid-palindrome](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0202-happy-number) |
