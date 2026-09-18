@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0383-ransom-note) |
 | [0904-fruit-into-baskets](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/1331-rank-transform-of-an-array) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0383-ransom-note) |
 | [0796-rotate-string](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/1189-maximum-number-of-balloons) |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0383-ransom-note) |
 | [1189-maximum-number-of-balloons](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/1189-maximum-number-of-balloons) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Array
