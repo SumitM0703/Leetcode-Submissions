@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0242-valid-anagram) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0383-ransom-note) |
 | [1189-maximum-number-of-balloons](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/1189-maximum-number-of-balloons) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0053-maximum-subarray) |
 | [0128-longest-consecutive-sequence](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0287-find-the-duplicate-number) |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0268-missing-number) |
@@ -112,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -226,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0796-rotate-string) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
