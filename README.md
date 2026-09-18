@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0904-fruit-into-baskets](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/1189-maximum-number-of-balloons) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/1189-maximum-number-of-balloons) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/SumitM0703/Leetcode-Submissions/tree/master/1288-remove-covered-intervals) |
