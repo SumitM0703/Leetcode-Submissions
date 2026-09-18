@@ -5,8 +5,7 @@ class Solution:
         for num in nums:
             map[num] = map.get(num,0)+1
         for keys,values in map.items():
-            if values>max:
-                max = values
+            if values > len(nums)/2:
                 result = keys
         return result
             
